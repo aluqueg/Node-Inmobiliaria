@@ -1,0 +1,31 @@
+.background {
+  background-image: url(../images/low-angle-shot-facade-white-modern-building-blue-clear-sky.jpg) ;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+
+  img{
+    width: 13%;
+    mix-blend-mode: multiply;
+    position: absolute;
+    opacity: 30%;
+    top: 20%;    
+  }
+  
+}
+
+
+
+footer {
+  opacity: 30%;
+
+  .logo{
+    width: 13%;
+    mix-blend-mode: multiply;  
+  }
+  nav{
+    img{
+      width: 4%;
+    }
+  }
+}
